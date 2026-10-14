@@ -2,7 +2,7 @@ howdy
 
 
 -----
-[![Programming Languages](https://skillicons.dev/icons?i=rust,lua,bash,cpp,python,cs)](https://skillicons.dev)  
+[![Programming Languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)](https://skillicons.dev)  
 [![Frameworks](https://skillicons.dev/icons?i=docker,godot,vscodium)](https://skillicons.dev)
 
 -----
