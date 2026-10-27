@@ -7,6 +7,10 @@ howdy
 
 -----
 
+![visits](https://count.getloli.com/@howhow2315github?name=howhow2315github&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
+
+-----
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=howhow2315&show_icons=true&theme=radical"
