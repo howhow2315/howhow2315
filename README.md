@@ -1,15 +1,24 @@
-howdy
-
+### howdy, im [howhow](https://howhow.stream/)
 
 -----
-[![Programming Languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)](https://skillicons.dev)  
+
+i work with these programming languages (sorted left to right by proficiency)
+
+[![Programming Languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)](https://skillicons.dev)
+
+and these frameworks
+
 [![Frameworks](https://skillicons.dev/icons?i=docker,godot,vscodium)](https://skillicons.dev)
 
 -----
 
+total visits !!
+
 ![visits](https://count.getloli.com/@howhow2315github?name=howhow2315github&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
 
 -----
+
+some stats !
 
 <picture>
   <source
@@ -21,16 +30,4 @@ howdy
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=howhow2315&show_icons=true" />
-</picture>
-<br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=howhow2315&show_icons=true&theme=radical&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=howhow2315&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=howhow2315&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8" />
 </picture>
