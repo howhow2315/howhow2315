@@ -4,11 +4,13 @@
 
 i work with these programming languages (sorted left to right by proficiency)
 
-[![Programming Languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)](https://skillicons.dev)
+![programming_languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)
 
-and these frameworks
+and i use these frameworks / tools / software
 
-[![Frameworks](https://skillicons.dev/icons?i=docker,godot,vscodium)](https://skillicons.dev)
+[![godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![vscodium](https://skillicons.dev/icons?i=vscodium)](https://github.com/VSCodium/vscodium)
 
 -----
 
