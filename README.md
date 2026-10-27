@@ -4,7 +4,7 @@
 
 i work with these programming languages (sorted left to right by proficiency)
 
-![programming_languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)
+[![programming_languages](https://skillicons.dev/icons?i=lua,bash,cpp,rust,python,cs)](https://howhow.stream/)
 
 and i use these frameworks / tools / software
 
@@ -14,22 +14,7 @@ and i use these frameworks / tools / software
 
 -----
 
-total visits !!
+[![visits](https://count.getloli.com/@howhow2315github?name=howhow2315github&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0)](https://howhow.stream/)
 
-![visits](https://count.getloli.com/@howhow2315github?name=howhow2315github&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
-
------
-
-some stats !
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howhow2315&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=howhow2315&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=howhow2315&show_icons=true" />
-</picture>
+![github_stats](https://github-stats-extended.vercel.app/api?username=howhow2315&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&disable_animations=true&theme=gruvbox)
+![github_languages](https://github-stats-extended.vercel.app/api/top-langs?username=howhow2315&layout=pie&hide_title=true&langs_count=4&disable_animations=true&theme=gruvbox)
